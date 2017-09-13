@@ -1,0 +1,11 @@
+ 
+ $("#add-new-event1").click(function(){
+	
+  	e.preventDefault();
+  	$("#modal3").modal();
+  });
+
+  $("#add-new-event2").click(function(){
+  	e.preventDefault();
+  	$("#modal4").modal();
+  });
